@@ -17,7 +17,7 @@ else:
         break
 
 
-if is_primo == True and a != 2 and a != 1:
+if is_primo == True and a > 2:
         print("Primo")
 else:
         print("Não primo")
