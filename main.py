@@ -19,6 +19,6 @@ else:
 
 if is_primo == True and a > 0:
         print("Primo")
-else:
+elif a > 0:
         print("Não primo")
         
